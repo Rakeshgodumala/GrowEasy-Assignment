@@ -7,7 +7,8 @@ import ResultTable from "./components/ResultTable";
 import Loader from "./components/Loader";
 import ManageLeads from "./components/ManageLeads"; // new
 
-const API_URL = "http://localhost:5000/api/import/process";
+// const API_URL = "http://localhost:5000/api/import/process";
+const API_URL = "https://groweasy-assignment-qwnj.onrender.com/api/import/process";
 
 function App() {
   const [step, setStep] = useState("upload");
