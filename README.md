@@ -4,9 +4,9 @@ An AI-powered CSV importer that intelligently maps any CSV format (Facebook Lead
 
 ## Live Links
 
-- **Hosted App:** [add your Firebase URL here]
-- **Backend API:** [add your Render URL here]
-- **GitHub Repo:** [add your repo URL here]
+- **Hosted App:** https://grow-easy-assignment-rosy.vercel.app/
+- **Backend API:** https://groweasy-assignment-qwnj.onrender.com/
+**- **GitHub Repo:** https://github.com/Rakeshgodumala/GrowEasy-Assignment
 
 ## Tech Stack
 
